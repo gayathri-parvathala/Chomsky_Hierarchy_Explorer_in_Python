@@ -1,7 +1,6 @@
 
 
-**Chomsky Hierarchy Grammar Classifier**
----
+# Chomsky Hierarchy Grammar Classifier
 
 **Introduction:**
 
