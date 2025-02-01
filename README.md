@@ -104,4 +104,4 @@ This project is open-source and available for modifications and improvements.
 
 ---
 
-Would you like further details or any additions to the project?
+
